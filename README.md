@@ -1,0 +1,1 @@
+# kibana-installation-on-ubuntu20.04
